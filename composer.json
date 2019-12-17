@@ -2,7 +2,7 @@
     "name": "guzaba-platform/project-skeleton",
     "type": "project",
     "description": "GuzabaPlatform project skeleton",
-    "keywords":"project-skeleton",
+    "keywords":["project-skeleton"],
     "homepage":"https://github.com/AzonMedia/guzaba-platform-skeleton",
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
