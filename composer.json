@@ -1,0 +1,26 @@
+{
+    "name": "guzaba-platform/project-skeleton",
+    "type": "project",
+    "description": "GuzabaPlatform project skeleton",
+    "keywords":"project-skeleton",
+    "homepage":"https://github.com/AzonMedia/guzaba-platform-skeleton",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Vesko Kenashkov",
+            "email": "kenashkov@azonmedia.com",
+            "homepage": "http://azonmedia.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "guzaba-platform/guzaba-platform-installer": "dev-master",
+        "guzaba-platform/guzaba-platform": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
